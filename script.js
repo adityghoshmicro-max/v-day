@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.tenor.com/JIX9h4O0W4QAAAAd/cute-monkey.gif",
+    "https://media.tenor.com/2roX3uxFazMAAAAd/monkey-confused.gif",
+    "https://media.tenor.com/YGkQdR2tQWQAAAAd/monkey-begging.gif",
+    "https://media.tenor.com/8q3YQz7K8f0AAAAd/sad-monkey.gif",
+    "https://media.tenor.com/LQ5zGxS6Wb0AAAAd/crying-monkey.gif",
+    "https://media.tenor.com/M6kqJY8Fqg8AAAAd/monkey-sad.gif",
+    "https://media.tenor.com/0AVbkgV3Xn4AAAAd/monkey-crying.gif",
+    "https://media.tenor.com/fYQWcJH0J0YAAAAd/monkey-running.gif"
 ]
 
 const noMessages = [
