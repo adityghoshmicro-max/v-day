@@ -1,0 +1,10 @@
+v-day/
+ ├── gifs/
+ │    ├── monkey1.gif
+ │    ├── monkey2.gif
+ │    ├── monkey3.gif
+ │    ├── monkey4.gif
+ │    └── monkey5.gif
+ ├── index.html
+ ├── script.js
+ └── style.css
