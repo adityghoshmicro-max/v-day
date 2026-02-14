@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://media.tenor.com/JIX9h4O0W4QAAAAd/cute-monkey.gif",
-    "https://media.tenor.com/2roX3uxFazMAAAAd/monkey-confused.gif",
-    "https://media.tenor.com/YGkQdR2tQWQAAAAd/monkey-begging.gif",
-    "https://media.tenor.com/8q3YQz7K8f0AAAAd/sad-monkey.gif",
-    "https://media.tenor.com/LQ5zGxS6Wb0AAAAd/crying-monkey.gif",
-    "https://media.tenor.com/M6kqJY8Fqg8AAAAd/monkey-sad.gif",
-    "https://media.tenor.com/0AVbkgV3Xn4AAAAd/monkey-crying.gif",
-    "https://media.tenor.com/fYQWcJH0J0YAAAAd/monkey-running.gif"
+    "gifs/monkey1.gif",
+    "gifs/monkey2.gif",
+    "gifs/monkey3.gif",
+    "gifs/monkey4.gif",
+    "gifs/monkey5.gif",
+    "gifs/monkey6.gif",
+    "gifs/monkey7.gif",
+    "gifs/monkey8.gif"
 ]
 
 const noMessages = [
